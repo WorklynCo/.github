@@ -126,6 +126,61 @@ It's software that understands your business, remembers context, and helps you m
 That's why Worklyn is AI-native from day one.
 
 ---
+---
+
+## Why Worklyn?
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 AI that understands your business
+
+Your AI knows your clients, projects, invoices, contracts, expenses, and cash flow.
+
+Ask questions instead of searching through dashboards.
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ Everything in one workspace
+
+Projects, proposals, contracts, invoicing, payments, banking, and reporting—all connected.
+
+No more switching between five different tools.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 Built for founders
+
+Designed for modern founders and freelancers who want to spend less time on admin and more time building.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Built with
+
+<p>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+
+</p>
 
 # Tech Stack
 
