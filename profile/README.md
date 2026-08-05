@@ -172,6 +172,6 @@ Our mission is simple:
 
 ### 🌐 https://worklyn.co
 
-Built with ❤️ in Germany.
+Built with ☕ and mor ☕
 
 </div>
