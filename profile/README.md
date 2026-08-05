@@ -2,7 +2,7 @@
 
 # Worklyn
 
-### The AI-powered back office for founders and freelancers.
+### The AI-native back office for founders and freelancers.
 
 Run the work. Mind the money. Get answers like you have a CFO.
 
