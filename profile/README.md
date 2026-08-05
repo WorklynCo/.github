@@ -172,6 +172,6 @@ Our mission is simple:
 
 ### 🌐 https://worklyn.co
 
-Built with ☕ and mor ☕
+Built with ☕ and more ☕
 
 </div>
