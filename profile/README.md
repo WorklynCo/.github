@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://avatars.githubusercontent.com/u/266589796?s=400&u=cf6deafe0588b5ff24835d17f056c8caaeb29248&v=4" width="140" alt="Worklyn Logo">
 
 # Worklyn
 
