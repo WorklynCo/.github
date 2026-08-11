@@ -5,7 +5,7 @@
 
 ### Business and finance workspace for solo professionals and founders.
 
-**Run the work. Mind the money. Answers like a CFO.**
+**Runs the work. Minds the money. Answers like a CFO.**
 
 <p>
   <a href="https://worklyn.co">Website</a> ·
@@ -17,64 +17,68 @@
 
 ---
 
-## One workspace from client to margin
+## From client to margin
 
-Worklyn connects the work you do with the money behind it.
+Worklyn brings client work and business finances into the same place.
 
-Manage clients, proposals, contracts, projects, time tracking, invoices, expenses, receipts and bank transactions in one connected workspace — so the financial context does not disappear between tools.
+Manage clients, proposals, contracts, projects, time, invoices, expenses, receipts and bank transactions without moving the same information between different tools.
 
 **Client → Proposal → Contract → Project → Invoice → Payment → Margin**
 
-Instead of only knowing what you billed, Worklyn helps you understand what each project actually earned after time and costs.
+Worklyn keeps the financial side attached to the work, so you can see what a project earned instead of only what you invoiced.
 
 ---
 
 ## Run the work
 
-- **Clients** — Keep client details, conversations, files and work history connected.
-- **Proposals** — Create and send proposals, then move accepted work forward without rebuilding the context.
-- **Contracts** — Keep agreements alongside the client and project they belong to.
-- **Projects** — Organize deliverables, tasks and budgets while keeping the financial side visible.
-- **Time tracking** — Track billable time by project and connect worked hours to profitability.
-- **Invoicing** — Create and track invoices without disconnecting them from the work that produced them.
-- **Client portal** — Give clients a place to follow their work, exchange files and communicate with you.
+- **Clients** → Keep client details, conversations, files and work history in one place.
+- **Proposals** → Create and send proposals, then move accepted work into a contract or project.
+- **Contracts** → Keep agreements together with the client and project they belong to.
+- **Projects** → Manage tasks, deliverables, budgets and project files.
+- **Time tracking** → Track billable time by project and use it when calculating project costs.
+- **Invoicing** → Create invoices from your work and keep track of their payment status.
+- **Client portal** → Share files, updates and messages with clients without spreading the conversation across different tools.
 
 ---
 
 ## Mind the money
 
-- **Expenses & receipts** — Keep business expenses and supporting documents organized.
-- **Bank transactions** — Bring read-only bank activity into the same workspace as your business operations.
-- **Reconciliation** — Match transactions with invoices, expenses and receipts to keep records clean.
-- **Project margins** — See revenue, tracked time and costs together to understand what each project actually earns.
-- **Pre-accounting** — Organize financial records before handing them to your accountant.
-- **Multi-currency** — Manage clients, invoices and financial activity across multiple currencies.
+- **Expenses & receipts** → Record business expenses and keep the related receipts with them.
+- **Bank transactions** → View read-only bank transactions alongside the rest of your business activity.
+- **Reconciliation** → Match bank transactions with invoices, expenses and receipts.
+- **Project margins** → Compare revenue, time and costs to see what each project actually earned.
+- **Pre-accounting** → Prepare transactions and documents before sending them to your accountant.
+- **Multi-currency** → Work with clients, invoices and transactions in multiple currencies.
 
 ---
 
 ## Answers like a CFO
 
-Worklyn's AI works on top of the operational and financial context already inside your workspace.
+Worklyn's AI uses the information already available in your workspace.
 
-Ask questions such as:
+You can ask questions such as:
 
 > Which invoices are still unpaid?
 >
-> Which projects are actually profitable?
+> Which projects made the most money?
 >
-> Where is most of my money going this month?
+> How much did I spend this month?
 >
-> What needs my attention next?
+> Which clients owe me money?
+>
+> What should I look at today?
 
-The goal is not another dashboard to maintain. It is a workspace that can help you understand the business behind the work.
+Instead of opening several reports and trying to piece the numbers together, you can ask Worklyn directly.
 
 ---
 
-## Built for solo professionals and founders
+## Who is Worklyn for?
 
-Worklyn is designed for people who manage both client work and the business behind it — including freelancers, consultants, developers, designers, marketers and early-stage founders.
+Worklyn is built for solo professionals and founders who handle both the work and the business behind it.
 
-It becomes especially useful when separate CRMs, project tools, invoicing apps, spreadsheets and finance dashboards start hiding the full picture instead of clarifying it.
+That includes freelancers, consultants, developers, designers, marketers and founders running small companies.
+
+If your clients are in one tool, projects in another, invoices somewhere else and finances in a spreadsheet, Worklyn is meant to replace that setup.
 
 ---
 
@@ -84,25 +88,27 @@ It becomes especially useful when separate CRMs, project tools, invoicing apps, 
 <tr>
 <td width="33%" valign="top">
 
-### Connected context
+### Work and money together
 
-Clients, work and finances live together instead of being split across unrelated tools.
-
-</td>
-
-<td width="33%" valign="top">
-
-### Real project margins
-
-Budgets, time, costs and revenue come together so you can see what the work actually earned.
+Clients, projects, invoices, expenses and bank transactions belong to the same business. Worklyn treats them that way.
 
 </td>
 
 <td width="33%" valign="top">
 
-### Financial intelligence
+### Know what a project earned
 
-Ask questions about the business using the context Worklyn already has.
+Revenue alone does not tell you whether a project was good business.
+
+Worklyn combines revenue, tracked time and costs to calculate project margins.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Ask your numbers
+
+Worklyn's AI can answer questions using your clients, projects, invoices, expenses and financial activity.
 
 </td>
 </tr>
@@ -110,19 +116,29 @@ Ask questions about the business using the context Worklyn already has.
 
 ---
 
-## The story behind Worklyn
+## Why we built Worklyn
 
-Worklyn started from a simple frustration: running an independent business meant jumping between separate tools for clients, proposals, contracts, projects, time tracking, invoices and finances.
+Worklyn started because running freelance work meant using too many separate tools.
 
-The individual tools worked, but the context between them was missing.
+One for proposals.
 
-A project could be delivered and invoiced without ever producing a clear answer to a basic question:
+One for contracts.
 
-**How much did we actually make?**
+One for projects.
 
-Worklyn was built to connect those pieces in one workspace.
+One for time tracking.
 
-Its financial side later expanded deeper into banking, transactions, reconciliation and pre-accounting — turning Worklyn into a broader business and finance workspace.
+One for invoices.
+
+Then a spreadsheet to figure out whether any of it actually made money.
+
+Each tool handled its own part, but none of them knew what happened before or after it.
+
+Worklyn puts those parts together.
+
+Over time, the financial side became a larger part of the product with bank transactions, reconciliation, receipts, expenses, project margins and pre-accounting.
+
+Today Worklyn sits between running the work and understanding the money behind it.
 
 [Read the founder story →](https://worklyn.co/founder-story)
 
