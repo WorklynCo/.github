@@ -1,132 +1,81 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/266589796?s=400&u=cf6deafe0588b5ff24835d17f056c8caaeb29248&v=4" width="140" alt="Worklyn Logo">
+  <img src="https://avatars.githubusercontent.com/u/266589796?s=400" width="140" alt="Worklyn logo">
 
 # Worklyn
 
-### The AI-native back office for founders and freelancers.
+### Business and finance workspace for solo professionals and founders.
 
-Run the work. Mind the money. Get answers like you have a CFO.
+**Run the work. Mind the money. Answers like a CFO.**
 
 <p>
-  <a href="https://worklyn.co">🌐 Website</a> •
-  <a href="https://app.worklyn.co">🚀 Try Worklyn</a> •
-  <a href="mailto:hi@worklyn.co">✉️ Contact</a>
+  <a href="https://worklyn.co">Website</a> ·
+  <a href="https://app.worklyn.co">Open Worklyn</a> ·
+  <a href="https://worklyn.co/founder-story">Founder story</a> ·
+  <a href="mailto:hi@worklyn.co">Contact</a>
 </p>
-
 </div>
 
 ---
 
-## What is Worklyn?
+## One workspace from client to margin
 
-Building a company is exciting.
+Worklyn connects the work you do with the money behind it.
 
-Running one isn't.
+Manage clients, proposals, contracts, projects, time tracking, invoices, expenses, receipts and bank transactions in one connected workspace — so the financial context does not disappear between tools.
 
-Founders spend countless hours creating proposals, sending invoices, tracking expenses, checking bank transactions, following up with clients, and trying to understand where the money is going.
+**Client → Proposal → Contract → Project → Invoice → Payment → Margin**
 
-Worklyn brings everything together into one AI-powered workspace.
-
-Instead of switching between ten different tools, you manage your clients, projects, finances, documents, and payments from one place—with an AI assistant that actually understands your business.
+Instead of only knowing what you billed, Worklyn helps you understand what each project actually earned after time and costs.
 
 ---
 
-## Why Worklyn?
+## Run the work
 
-Most business software was built before AI.
+- **Clients** — Keep client details, conversations, files and work history connected.
+- **Proposals** — Create and send proposals, then move accepted work forward without rebuilding the context.
+- **Contracts** — Keep agreements alongside the client and project they belong to.
+- **Projects** — Organize deliverables, tasks and budgets while keeping the financial side visible.
+- **Time tracking** — Track billable time by project and connect worked hours to profitability.
+- **Invoicing** — Create and track invoices without disconnecting them from the work that produced them.
+- **Client portal** — Give clients a place to follow their work, exchange files and communicate with you.
 
-They help you store information.
+---
 
-Worklyn helps you understand it.
+## Mind the money
 
-Your AI knows your clients, projects, invoices, expenses, contracts, payments, and cash flow. Instead of digging through dashboards, you simply ask questions.
+- **Expenses & receipts** — Keep business expenses and supporting documents organized.
+- **Bank transactions** — Bring read-only bank activity into the same workspace as your business operations.
+- **Reconciliation** — Match transactions with invoices, expenses and receipts to keep records clean.
+- **Project margins** — See revenue, tracked time and costs together to understand what each project actually earns.
+- **Pre-accounting** — Organize financial records before handing them to your accountant.
+- **Multi-currency** — Manage clients, invoices and financial activity across multiple currencies.
 
-> "Which clients haven't paid yet?"
+---
+
+## Answers like a CFO
+
+Worklyn's AI works on top of the operational and financial context already inside your workspace.
+
+Ask questions such as:
+
+> Which invoices are still unpaid?
 >
-> "How much did I earn last month?"
+> Which projects are actually profitable?
 >
-> "Prepare a proposal for Acme."
+> Where is most of my money going this month?
 >
-> "What are my biggest expenses this quarter?"
+> What needs my attention next?
 
-Your back office becomes conversational.
-
----
-
-# Features
-
-### 🤖 AI Assistant
-
-An AI that understands your business—not just your documents.
-
-### 👥 Client Management
-
-Keep every client, conversation, project, invoice and payment connected.
-
-### 📄 Proposals
-
-Create beautiful proposals in minutes.
-
-### ✍️ Contracts
-
-Generate and manage contracts without leaving your workspace.
-
-### 💸 Invoicing
-
-Create invoices, track payments and send reminders.
-
-### 🏦 Banking
-
-Connect your bank accounts and understand your finances.
-
-### 💳 Expense Tracking
-
-Categorize expenses automatically.
-
-### 📈 Financial Insights
-
-Revenue, profit, cash flow and business health in one dashboard.
-
-### 📁 Projects
-
-Manage your work from idea to delivery.
-
-### ⏱ Time Tracking
-
-Track billable hours effortlessly.
-
-### 📊 Reports
-
-Generate financial and business reports instantly.
+The goal is not another dashboard to maintain. It is a workspace that can help you understand the business behind the work.
 
 ---
 
-# Built for
+## Built for solo professionals and founders
 
-- 🚀 Founders
-- 💼 Freelancers
-- 🧑‍💻 Indie Hackers
-- 🎨 Designers
-- 👨‍💼 Consultants
-- 🏗 Agencies
-- 📸 Creators
-- 👩‍💻 Developers
+Worklyn is designed for people who manage both client work and the business behind it — including freelancers, consultants, developers, designers, marketers and early-stage founders.
 
----
+It becomes especially useful when separate CRMs, project tools, invoicing apps, spreadsheets and finance dashboards start hiding the full picture instead of clarifying it.
 
-# Our Philosophy
-
-Software shouldn't make you work harder.
-
-It should work for you.
-
-We believe the future of business software isn't another dashboard.
-
-It's software that understands your business, remembers context, and helps you make better decisions every day.
-
-That's why Worklyn is AI-native from day one.
-
----
 ---
 
 ## Why Worklyn?
@@ -135,29 +84,25 @@ That's why Worklyn is AI-native from day one.
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 AI that understands your business
+### Connected context
 
-Your AI knows your clients, projects, invoices, contracts, expenses, and cash flow.
-
-Ask questions instead of searching through dashboards.
+Clients, work and finances live together instead of being split across unrelated tools.
 
 </td>
 
 <td width="33%" valign="top">
 
-### ⚡ Everything in one workspace
+### Real project margins
 
-Projects, proposals, contracts, invoicing, payments, banking, and reporting—all connected.
-
-No more switching between five different tools.
+Budgets, time, costs and revenue come together so you can see what the work actually earned.
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🚀 Built for founders
+### Financial intelligence
 
-Designed for modern founders and freelancers who want to spend less time on admin and more time building.
+Ask questions about the business using the context Worklyn already has.
 
 </td>
 </tr>
@@ -165,69 +110,40 @@ Designed for modern founders and freelancers who want to spend less time on admi
 
 ---
 
+## The story behind Worklyn
+
+Worklyn started from a simple frustration: running an independent business meant jumping between separate tools for clients, proposals, contracts, projects, time tracking, invoices and finances.
+
+The individual tools worked, but the context between them was missing.
+
+A project could be delivered and invoiced without ever producing a clear answer to a basic question:
+
+**How much did we actually make?**
+
+Worklyn was built to connect those pieces in one workspace.
+
+Its financial side later expanded deeper into banking, transactions, reconciliation and pre-accounting — turning Worklyn into a broader business and finance workspace.
+
+[Read the founder story →](https://worklyn.co/founder-story)
+
+---
+
 ## Built with
 
 <p>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
-
-# Tech Stack
-
-- Next.js
-- TypeScript
-- PostgreSQL
-- Redis
-- AI-first Architecture
-- Cloud-native Infrastructure
-
----
-
-# Roadmap
-
-- ✅ AI Workspace
-- ✅ Client Management
-- ✅ Projects
-- ✅ Proposals
-- ✅ Contracts
-- ✅ Invoicing
-- ✅ Time Tracking
-- ✅ Banking
-- ✅ Expense Tracking
-- ✅  Financial Reports
-- ✅  AI CFO
-- 🚧 Mobile Apps
-
-
----
-
-# We're Building the Future Back Office
-
-The modern founder deserves better than spreadsheets, disconnected tools, and endless admin work.
-
-Our mission is simple:
-
-> **Give every founder an AI-powered back office.**
 
 ---
 
 <div align="center">
 
-## Start using Worklyn today
+### Run the work. Mind the money. Know what comes next.
 
-### 🌐 https://worklyn.co
-
-Built with ☕ and more ☕
+**[Start with Worklyn →](https://worklyn.co)**
 
 </div>
