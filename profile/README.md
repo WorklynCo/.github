@@ -9,8 +9,8 @@
 
 <p>
   <a href="https://worklyn.co">Website</a> ·
-  <a href="https://tools.worklyn.co">Tools</a> ·
   <a href="https://app.worklyn.co">Open Worklyn</a> ·
+  <a href="https://tools.worklyn.co">Tools</a> ·
   <a href="https://worklyn.co/founder-story">Founder story</a> ·
   <a href="mailto:hi@worklyn.co">Contact</a>
 </p>
