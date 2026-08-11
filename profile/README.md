@@ -156,6 +156,7 @@ Today Worklyn sits between running the work and understanding the money behind i
 </p>
 
 ---
+
 ## Free tools
 
 We also publish small tools for freelancers and founders at [tools.worklyn.co](https://tools.worklyn.co).
@@ -163,6 +164,8 @@ We also publish small tools for freelancers and founders at [tools.worklyn.co](h
 Calculators, generators and utilities for the day-to-day parts of running a business.
 
 **[Browse Worklyn Tools →](https://tools.worklyn.co)**
+
+
 ---
 
 <div align="center">
