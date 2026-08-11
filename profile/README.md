@@ -9,6 +9,7 @@
 
 <p>
   <a href="https://worklyn.co">Website</a> ·
+  <a href="https://tools.worklyn.co">Tools</a> ·
   <a href="https://app.worklyn.co">Open Worklyn</a> ·
   <a href="https://worklyn.co/founder-story">Founder story</a> ·
   <a href="mailto:hi@worklyn.co">Contact</a>
@@ -154,6 +155,14 @@ Today Worklyn sits between running the work and understanding the money behind i
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
+---
+## Free tools
+
+We also publish small tools for freelancers and founders at [tools.worklyn.co](https://tools.worklyn.co).
+
+Calculators, generators and utilities for the day-to-day parts of running a business.
+
+**[Browse Worklyn Tools →](https://tools.worklyn.co)**
 ---
 
 <div align="center">
